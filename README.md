@@ -1,2 +1,2 @@
-# phonegap-tictactoe
-Phonegap wrapper for tictactoe
+# phonegap-snipergame
+Phonegap wrapper for SnipeCity
