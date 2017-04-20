@@ -11,7 +11,7 @@
       see: http://developer.android.com/tools/publishing/versioning.html
     -->
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-      <string>100</string>
+      <string>101</string>
     </gap:config-file>
 
     <content src="https://snipe.city/?phonegapPlugins=v104" />
